@@ -1,0 +1,6 @@
+{
+  "name": "Summit Shield Roofing — DFW Storm Restoration & Roof Replacement",
+  "description": "High-converting roofing and storm restoration platform for Dallas-Fort Worth featuring a 60-second drone roof calculator, storm insurance eligibility checker, live shingle visualizer, and monthly financing estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
